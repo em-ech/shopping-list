@@ -2,3 +2,6 @@
 # loads comes from here, so it is never published.
 node_modules/
 package-lock.json
+
+# macOS
+.DS_Store
